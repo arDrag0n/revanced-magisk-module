@@ -1,4 +1,4 @@
-YouTube-Extended: 19.05.36  
+YouTube-Extended: 19.06.36  
 Twitter: 10.30.0-release.0  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
