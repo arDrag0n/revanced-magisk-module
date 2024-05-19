@@ -1,4 +1,5 @@
 🟢 » YouTube-Extended: `19.16.39`  
+🟢 » YouTube-Extended-rufusin: `19.16.39`  
 🟢 » YouTube-Extended-anddea: `19.16.38`  
 🟢 » X: `10.41.0-release.1`  
 
