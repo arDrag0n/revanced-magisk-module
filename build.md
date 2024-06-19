@@ -1,4 +1,5 @@
 🟢 » YouTube-Extended: `19.21.40`  
+🟢 » YouTube-Extended-6-7: `17.34.36`  
 🟢 » X: `10.45.1-release.0`  
 
 - ▶️ » Install [GmsCore](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
