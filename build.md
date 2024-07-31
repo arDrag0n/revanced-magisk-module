@@ -1,5 +1,6 @@
 🟢 » YouTube-Extended: `19.16.39`  
 🟢 » YouTube-Extended-6-7: `17.34.36`  
+🟢 » X: `10.49.0-release.0`  
 
 - ▶️ » Install [GmsCore](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 - 🛑 » Use [zygisk-detach (Magisk)](https://github.com/j-hc/zygisk-detach) module or [UpdateLocker (LSPosed)](https://github.com/Xposed-Modules-Repo/ru.mike.updatelocker/releases) to detach patched apps from being updated by Play Store
